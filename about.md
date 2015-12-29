@@ -3,11 +3,7 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
-
-Hey there! This is the personal page for Trayton White. I'm a data engineer focused on making it easier to use data.
+Welcome! This is the personal page for Trayton White. I'm a data engineer focused on making it easier to use data.
 
 Some things I've done to make that possible include:
 
