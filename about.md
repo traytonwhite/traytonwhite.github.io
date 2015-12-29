@@ -7,24 +7,15 @@ title: About
   Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
 </p>
 
-In the novel, *The Strange Case of Dr. Jekyll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+Hey there! This is the personal page for Trayton White. I'm a data engineer focused on making it easier to use data.
 
-There are currently two themes built on Poole:
+Some things I've done to make that possible include:
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+* Project manager of data-focused initiatives spanning data migrations, new analyses, and data quality
+* Integration of third-party data sources through screen-scraping, official API's, and ad-hoc requests
+* Programming scripts to parse Excel files into different format CSV files
+* Creating a browser-based bot to automate use of a data load tool with no available API
+* Extensive research and use of third-party API's for data loading processes
+* Bash scripting to retrieve files from SFTP sites, pre-process data, load into databases, and execute database stored procedures
+* Database design and programming including creating stored procedures, defining table metadata, and optimizing through indexing, normalization, and tuning
 
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
