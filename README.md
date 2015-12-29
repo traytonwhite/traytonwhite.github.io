@@ -1,2 +1,2 @@
 # traytonwhite.github.io
-Blog for traytonwhite.com
+-Personal site for Trayton White, hosted by GitHub Pages.
