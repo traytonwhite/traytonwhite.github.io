@@ -6,7 +6,7 @@ relative_permalinks: true
 
 # Setup
 title:               Trayton White's Blog
-tagline:             Data Engineer
+tagline:             A Haskelly Data Engineer
 url:                 blog.traytonwhite.com
 paginate:            1
 baseurl:             ""
