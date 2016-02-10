@@ -1,13 +1,13 @@
 ---
 layout: post
-title: One Month Down
+title: End of January Update
 ---
 
 <div class="message">
     A bit behind, but doing all right.
 </div>
 
-### Update on the Goals
+### One Month Down - Update on the Goals
 
 One month down, and here's the update on these goals:
 
