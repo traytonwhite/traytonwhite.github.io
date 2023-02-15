@@ -3,8 +3,8 @@
 permalink:           pretty
 
 # Setup
-title:               Trayton White's Blog
-tagline:             A Haskelly Data Engineer
+title:               A Grimoire of SPLs
+tagline:             World's Okayest Splunk Wizard
 url:                 blog.traytonwhite.com
 paginate:            1
 baseurl:             ""
@@ -20,7 +20,7 @@ sass:
 author:
   name:              Trayton White
   url:               https://twitter.com/traytonwhite
-  email:             tbw@traytonwhite.com
+  email:             traytonwhite@gmail.com
 
 # Custom vars
 version:             2.0.0
